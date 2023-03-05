@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebSocket_example",
+"productVersion": "0.1",
+"dataUrl": "WebSocket_Example.data.unityweb",
+"wasmCodeUrl": "WebSocket_Example.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebSocket_Example.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
