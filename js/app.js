@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Build_wss.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL_Markless_Bird.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
